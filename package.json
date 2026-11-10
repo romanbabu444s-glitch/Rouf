@@ -1,0 +1,11 @@
+{
+  "name": "bkash-qr-project",
+  "version": "1.0.0",
+  "description": "My parsonal bKash QR payment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
+
