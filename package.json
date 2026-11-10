@@ -1,4 +1,4 @@
-{
+​{
 "name": "bkash-qr-project",
 "version": "1.0.0",
 "description": "My personal bKash QR payment",
@@ -8,6 +8,7 @@
 },
 "dependencies": {
 "express": "^4.21.2",
-"dotenv": "^16.4.5"
+"dotenv": "^16.4.5",
+"node-telegram-bot-api": "^0.66.0"
 }
 }
